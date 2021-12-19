@@ -1,0 +1,1 @@
+The is an updated notebook that allows one to easily specify a sequence and automatically import a list of matching entries from the On-line Encyclopedia of Integer Sequences. I'd like to add a section that can also import any related Mathematica formulas. Please feel free to email me with bug reports or feature suggestions.
